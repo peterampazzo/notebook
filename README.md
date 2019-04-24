@@ -11,6 +11,7 @@ Just another collection of links. Keeping track of good resources that helped me
 ## Git
 * [Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [Commit Message Guide](https://github.com/RomuloOliveira/commit-messages-guide)
+* [Make a Private Fork](https://stackoverflow.com/a/30352360/5306448)
 
 ## JS
 * [Node.js Fundamentals](https://github.com/matteocontrini/nodejs-fundamentals) 🇮🇹
