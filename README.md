@@ -16,3 +16,10 @@ Just another collection of links. Keeping track of good resources that helped me
 ## JS
 * [Node.js Fundamentals](https://github.com/matteocontrini/nodejs-fundamentals) 🇮🇹
 * [Javascript Style Guide](https://github.com/airbnb/javascript)
+
+## Bash / SysAdmin
+* [Save Terminal Output](https://askubuntu.com/a/420983)
+
+## MacOS
+* [Why the cache Spotify app on OSX takes up 10G of space?](https://community.spotify.com/t5/Desktop-Mac/Why-the-cache-Spotify-app-on-OSX-takes-up-10G-of-space/td-p/4544523)
+* [Using Shazam to pick up audio over internal soundcard / headphones](https://apple.stackexchange.com/a/202781)
