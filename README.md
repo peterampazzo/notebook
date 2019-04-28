@@ -18,6 +18,8 @@ Just another collection of links. Keeping track of good resources that helped me
 * [Javascript Style Guide](https://github.com/airbnb/javascript)
 
 ## Bash / SysAdmin
+* [Bash Guide](https://github.com/Idnan/bash-guide)
+* [Bash Scripting Cheatsheet](https://devhints.io/bash)
 * [Save Terminal Output](https://askubuntu.com/a/420983)
 
 ## MacOS
