@@ -7,6 +7,8 @@ Just another collection of links. Keeping track of good resources that helped me
 
 ## SE
 * [API vs SDK](https://softwareengineering.stackexchange.com/a/101875)
+* [Linting](https://stackoverflow.com/a/8503586/5306448)
+* [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
 
 ## Git
 * [Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
@@ -17,10 +19,14 @@ Just another collection of links. Keeping track of good resources that helped me
 * [Node.js Fundamentals](https://github.com/matteocontrini/nodejs-fundamentals) 🇮🇹
 * [Javascript Style Guide](https://github.com/airbnb/javascript)
 
+## React
+* [Storybook](https://spin.atomicobject.com/2018/01/24/react-storybook/)
+
 ## Bash / SysAdmin
 * [Bash Guide](https://github.com/Idnan/bash-guide)
 * [Bash Scripting Cheatsheet](https://devhints.io/bash)
 * [Save Terminal Output](https://askubuntu.com/a/420983)
+* [A grep Tutorial and Primer](https://danielmiessler.com/study/grep/)
 
 ## MacOS
 * [Why the cache Spotify app on OSX takes up 10G of space?](https://community.spotify.com/t5/Desktop-Mac/Why-the-cache-Spotify-app-on-OSX-takes-up-10G-of-space/td-p/4544523)
