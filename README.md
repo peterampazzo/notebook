@@ -9,6 +9,7 @@ Just another collection of links. Keeping track of good resources that helped me
 * [API vs SDK](https://softwareengineering.stackexchange.com/a/101875)
 * [Linting](https://stackoverflow.com/a/8503586/5306448)
 * [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
+* [REST with a JWT and Basic Auth](https://stackoverflow.com/a/28953341/5306448)
 
 ## Git
 * [Git Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
