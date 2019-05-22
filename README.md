@@ -28,6 +28,7 @@ Just another collection of links. Keeping track of good resources that helped me
 * [Bash Scripting Cheatsheet](https://devhints.io/bash)
 * [Save Terminal Output](https://askubuntu.com/a/420983)
 * [A grep Tutorial and Primer](https://danielmiessler.com/study/grep/)
+* [Enviroment Variables](https://askubuntu.com/questions/58814/how-do-i-add-environment-variables)
 
 ## MacOS
 * [Why the cache Spotify app on OSX takes up 10G of space?](https://community.spotify.com/t5/Desktop-Mac/Why-the-cache-Spotify-app-on-OSX-takes-up-10G-of-space/td-p/4544523)
