@@ -31,19 +31,15 @@ Just another collection of links. Keeping track of good resources that helped me
 - [Storybook](https://spin.atomicobject.com/2018/01/24/react-storybook/)
 
 ## Bash / SysAdmin
-<<<<<<< HEAD
-
 - [Bash Guide](https://github.com/Idnan/bash-guide)
 - [Bash Scripting Cheatsheet](https://devhints.io/bash)
 - [Save Terminal Output](https://askubuntu.com/a/420983)
 - [A grep Tutorial and Primer](https://danielmiessler.com/study/grep/)
-=======
 * [Bash Guide](https://github.com/Idnan/bash-guide)
 * [Bash Scripting Cheatsheet](https://devhints.io/bash)
 * [Save Terminal Output](https://askubuntu.com/a/420983)
 * [A grep Tutorial and Primer](https://danielmiessler.com/study/grep/)
 * [Enviroment Variables](https://askubuntu.com/questions/58814/how-do-i-add-environment-variables)
->>>>>>> d3c1f6601cd0835ed09e38708e2f9377bd983af3
 
 ## MacOS
 
