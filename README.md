@@ -11,7 +11,7 @@ Just another collection of links. Keeping track of good resources that helped me
 
 - [API vs SDK](https://softwareengineering.stackexchange.com/a/101875)
 - [Linting](https://stackoverflow.com/a/8503586/5306448)
-- [Difference between scaling horizontally and vertically for databases](https://stackoverflow.com/questions/11707879/difference-between-scaling-horizontally-and-vertically-for-databases)
+- [Difference between scaling horizontally and vertically for databases](https://stackoverflow.com/a/11715598)
 - [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
 - [REST with a JWT and Basic Auth](https://stackoverflow.com/a/28953341/5306448)
 - [Top Seven Tips for Building an API](https://dzone.com/articles/7-tips-for-building-an-api)
