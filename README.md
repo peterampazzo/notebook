@@ -15,6 +15,9 @@ Just another collection of links. Keeping track of good resources that helped me
 - [REST Resource Naming Guide](https://restfulapi.net/resource-naming/)
 - [REST with a JWT and Basic Auth](https://stackoverflow.com/a/28953341/5306448)
 - [Top Seven Tips for Building an API](https://dzone.com/articles/7-tips-for-building-an-api)
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+- [On API Correctness](https://developer.wordpress.com/2014/12/08/on-api-correctness/)
+- [REST: Good Practices for API Design](https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9)
 
 ## Git
 
